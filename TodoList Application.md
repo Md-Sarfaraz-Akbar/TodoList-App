@@ -1,32 +1,32 @@
-# TodoList Application
+# 📝 TodoList Application
 
 This is a simple TodoList application built with React and Vite. It allows users to add, edit, delete, and mark tasks as completed. The application uses local storage to persist tasks.
 
-## Features
+## ✨ Features
 
-- Add new tasks
-- Edit existing tasks
-- Delete tasks
-- Mark tasks as completed
-- Filter to show/hide completed tasks
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- ✅ Mark tasks as completed
+- 🔍 Filter to show/hide completed tasks
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- React
-- Vite
-- Tailwind CSS
-- ESLint
-- UUID
-- React Icons
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🧹 ESLint
+- 🆔 UUID
+- 🖼️ React Icons
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 
-- Node.js (version 14 or higher)
-- npm (version 6 or higher)
+- 🟢 Node.js (version 14 or higher)
+- 📦 npm (version 6 or higher)
 
-### Installation
+### 📥 Installation
 
 1. Clone the repository:
    ```sh
